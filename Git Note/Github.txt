@@ -49,3 +49,21 @@ Can be complex for large projects
 Merge conflicts may occur
 
 Requires discipline to commit properly
+
+Real-world Example of Git Usage
+
+In a software development team, developers use GitHub to collaborate on a project.
+
+For example:
+
+Each developer works on a feature in a separate branch
+
+Changes are pushed to GitHub
+
+A pull request is created to review code
+
+Team members review and approve changes
+
+The code is merged into the main branch
+
+This workflow helps avoid conflicts and ensures high-quality code.
