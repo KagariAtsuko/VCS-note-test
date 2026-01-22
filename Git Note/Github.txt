@@ -1,0 +1,51 @@
+Homework 1 – Version Control System (VCS)
+
+1. What is a Version Control System (VCS)?
+
+A Version Control System (VCS) is a tool that helps track changes to files over time.
+It allows users to:
+
+Save different versions of a file
+
+See who made changes and when
+
+Restore previous versions if something goes wrong
+
+Git is the most popular VCS today and is widely used in software development.
+
+2. Why do we need to use a VCS?
+
+We need a VCS because:
+
+It prevents losing work
+
+It allows multiple people to work on the same project
+
+It helps track history and changes
+
+It makes collaboration safer and more organized
+
+It allows rollback to earlier versions when bugs appear
+
+3. Advantages and Disadvantages of VCS
+ Advantages
+
+Keeps full history of changes
+
+Supports teamwork and collaboration
+
+Easy to undo mistakes
+
+Improves project organization
+
+Works well with platforms like GitHub, GitLab, Bitbucket
+
+ Disadvantages
+
+Learning curve for beginners
+
+Can be complex for large projects
+
+Merge conflicts may occur
+
+Requires discipline to commit properly
